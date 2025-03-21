@@ -116,7 +116,7 @@
 
                 <div class="card">
                     <div class="card-header">
-                        <h4>Jugadores</h4>
+                        <h4>Gestión de Jugadores</h4>
                         <a href="#" data-bs-toggle="modal" data-bs-target="#AgregaJugadorModal"
                             class="btn btn-primary float-end btn-sm">Agregar Jugador</a>
                     </div>
